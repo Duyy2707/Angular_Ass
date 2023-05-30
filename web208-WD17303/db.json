@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "Duy update",
+      "price": 123,
+      "img": "https://picsum.photos/200",
+      "id": 1
+    },
+    {
+      "name": "Duy",
+      "price": 999,
+      "img": "https://picsum.photos/200",
+      "id": 2
+    },
+    {
+      "name": "Minh a",
+      "price": 111,
+      "img": "https://picsum.photos/200",
+      "id": 3
+    },
+    {
+      "name": "Vũ 1231232131",
+      "price": 222,
+      "img": "https://picsum.photos/200",
+      "id": 4
+    }
+  ]
+}
